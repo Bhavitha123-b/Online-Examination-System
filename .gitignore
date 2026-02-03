@@ -1,0 +1,14 @@
+# Database configuration (contains credentials)
+system/database/config.php
+
+# Uploaded images & QR codes
+assets/uploads/
+assets/qrcode/
+
+# Logs & temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
