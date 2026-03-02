@@ -1,6 +1,6 @@
 # Online-Examination-System
 Online Examination System using PHP &amp; MySQL (Admin &amp; Student Panel)
-# Online Examination System
+
 
 🎓 Diploma Final Year Project  
 💻 First Academic Web Development Project
